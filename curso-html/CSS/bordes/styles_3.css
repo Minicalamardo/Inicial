@@ -1,15 +1,12 @@
-div{
-    background:red;
-    width: 150px;
-    margin: auto;
-    text-align: center;
+body{
+    background-color: black;
 }
 
-div{
-    border-width: 3px;
-    border-color: transparent;
-    border-style: solid;
-    border-radius: 8px;
+input{
+    margin: 5px;
+    padding: 6px 9px;
+    border: none;
+    border-bottom: 1px solid greenyellow;
+    background: transparent;
+    color: greenyellow;
 }
-
-/* me quede en el minuto 3:46:41 */
