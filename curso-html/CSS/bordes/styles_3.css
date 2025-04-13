@@ -1,0 +1,15 @@
+div{
+    background:red;
+    width: 150px;
+    margin: auto;
+    text-align: center;
+}
+
+div{
+    border-width: 3px;
+    border-color: transparent;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+/* me quede en el minuto 3:46:41 */
